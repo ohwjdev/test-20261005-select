@@ -9,6 +9,7 @@
             <respStmt xml:id="respStmt-1">
                <persName xml:id="persName-1" role="composer">Franz Liszt</persName>
                            <persName xml:id="persName-4" role="contributor">ohwjdev</persName>
+               <persName role="contributor">ohwjd</persName>
 </respStmt>
          </titleStmt>
          <pubStmt xml:id="pubStmt-1">
@@ -77,6 +78,14 @@
             </respStmt>
             <changeDesc>
                <p>Let's Encode: test-20261005-select task T0002 completed using mei-friend develop-1.6.0</p>
+            </changeDesc>
+         </change>
+         <change n="5" isodate="2026-10-07">
+            <respStmt>
+               <persName>ohwjd</persName>
+            </respStmt>
+            <changeDesc>
+               <p>Corrected during review: Let's Encode: test-20261005-select task T0002 completed using mei-friend develop-1.6.0</p>
             </changeDesc>
          </change>
 </revisionDesc>
